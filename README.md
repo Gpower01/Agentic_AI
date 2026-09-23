@@ -1,17 +1,4 @@
----
-HVE Core For Agentic Software Development Lifecycle - by Microsoft 
-description: Hypervelocity Engineering prompt library for GitHub Copilot with convention-driven AI workflows and validated artifacts
-ms.topic: overview
-keywords:
-  - hypervelocity engineering
-  - prompt engineering
-  - github copilot
-  - ai workflows
-  - custom agents
-  - copilot instructions
-  - rpi methodology
-estimated_reading_time: 3
----
+
 
 ## Hypervelocity Engineering (HVE) Core
 
@@ -24,7 +11,7 @@ Use HVE Core when you want AI-assisted work to be repeatable, standards-aligned,
 * Instructions that apply coding standards automatically
 * Skills that add reusable tool capabilities
 
-> [!CAUTION]
+
 > HVE Core is a highly opinionated, rapidly evolving agentic SDLC framework. It is best treated as a source of patterns and learning rather than a stable platform, foundation, or production dependency.
 > Workflows, interfaces, architecture, and recommended practices may change substantially, including in ways that are not backward compatible, as the technology landscape evolves. Evaluate all materials for your own requirements and risk tolerance.
 > The HVE Builder skill (use with `/hve-builder`) and GitHub Copilot can help you adapt or copy relevant patterns into an agentic SDLC that you own and maintain independently.
