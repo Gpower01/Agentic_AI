@@ -1,3 +1,15 @@
+## Overview
+HVE Core For Agentic Software Development Lifecycle - by Microsoft 
+description: Hypervelocity Engineering prompt library for GitHub Copilot with convention-driven AI workflows and validated artifacts
+
+* keywords:
+  - hypervelocity engineering
+  - prompt engineering
+  - github copilot
+  - ai workflows
+  - custom agents
+  - copilot instructions
+  - rpi methodology
 
 
 ## Hypervelocity Engineering (HVE) Core
